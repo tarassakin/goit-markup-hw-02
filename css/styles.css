@@ -65,16 +65,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-/* .nav-link-studio {
-  color: #2e2f42;
-  font-family: Roboto;
-  font-weight: 500;
-  font-style: Medium;
-  font-size: 16px;
-  leading-trim: NONE;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-} */
+
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
@@ -97,50 +88,8 @@ body {
 .contacts-link:focus {
   color: #404bbf;
 }
-/* .nav-link-portfolio {
-  color: #2e2f42;
-  font-family: Roboto;
-  font-weight: 500;
-  font-style: Medium;
-  font-size: 16px;
-  leading-trim: NONE;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-} */
-/* .nav-link-portfolio:hover,
-.nav-link-portfolio:focus {
-  color: #404bbf;
-} */
-/* .nav-link-contacts {
-  color: #2e2f42;
-  font-family: Roboto;
-  font-weight: 500;
-  font-style: Medium;
-  font-size: 16px;
-  leading-trim: NONE;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-} */
-/* .nav-link-contacts:hover,
-.nav-link-contacts:focus {
-  color: #404bbf;
-} */
-/* .nav-link {
-  color: #2e2f42;
-  text-decoration: none;
-} */
-/* .nav-link:hover,
-.nav-link:focus {
-  color: #404bbf;
-} */
 
-/* ADDRESS */
-
-/* .contacts {
-  font-style: normal;
-} */
-
-/*1-- SECTION HERO */
+/* SECTION HERO */
 
 .hero {
   background-color: #2e2f42;
@@ -217,18 +166,7 @@ body {
 .bkgrnd {
   background-color: #ffffff;
 }
-/* .second-header {
-  font-family: Roboto;
-  font-weight: 700;
-  font-style: Bold;
-  font-size: 36px;
-  leading-trim: NONE;
-  line-height: 1.11;
-  text-transform: capitalize
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-} */
+
 .portfolio {
   text-decoration: none;
 }
@@ -242,25 +180,6 @@ body {
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
-/* .foot {
-  background-color: #2e2f42;
-} */
-/* .foot-webstudio {
-  color: #4d5ae5;
-  font-family: Raleway, sans-serif;
-  font-weight: 700;
-  font-style: Bold;
-  font-size: 18px;
-  text-decoration: none;
-  leading-trim: NONE;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  vertical-align: middle;
-  text-transform: uppercase;
-} */
-/* .foot .foot-studio-spn {
-  color: #f4f4fd;
-} */
 
 .foot-text {
   color: #f4f4fd;
