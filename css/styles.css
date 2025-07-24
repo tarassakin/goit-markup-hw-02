@@ -49,13 +49,17 @@ body {
   vertical-align: middle;
   text-transform: uppercase;
 }
-.header-logo {
-}
+/* .header-logo {
+  margin-right: 76px;
+} */
 
 .header-logo .logo-part {
   color: #2e2f42;
 }
 
+/* .footer-logo {
+  margin-bottom: 16px;
+} */
 .nav-link {
   font-weight: 500;
   font-style: Medium;
